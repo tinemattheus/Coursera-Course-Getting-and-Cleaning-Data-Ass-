@@ -3,12 +3,12 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 
-The script is written with RStudio - the R version used is 3.4.2.
+The script for peer graded assignment Getting and Cleaning Data is written with RStudio - the R version used is 3.4.2. 
 
 Content
 -------
  1. Before running the script
- 2. Script
+ 2. Script description
  3. Viewing the tidy data set
 
 
@@ -18,9 +18,9 @@ The basic data packages in R are used. I had to install the following packages:
 		 - reshape (reshape2 cannot be used with R version 3.4.2)
 		 - dplyr
 
-**2. Script**
+**2. Script description**
 ----------
-The script is called run_analysis.
+The script is called run_analysis.R.
 
 In the script the zip file with the data for the assignment is downloaded (in case this is not done yet) and unzipped. This is done in the working directory.
 No additional tests are made to check whether the file is already unzipped.
