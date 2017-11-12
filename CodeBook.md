@@ -28,13 +28,11 @@ More information on the raw data can be found in the README.txt and features_inf
 ----------------
 The tidy data set "tidyDataSetTineM.txt" contains 4 columns.
 
-subject_number
-			Integer
-					1 .. 30
+subject_number - Integer
+	1 .. 30
 
-activity_description
-			Factor with 6 levels
-					WALKING
+activity_description - Factor with 6 levels
+	WALKING
 					WALKING_UPSTAIRS
 					WALKING_DOWNSTAIRS
 					SITTING
